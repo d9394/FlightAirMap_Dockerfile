@@ -1,5 +1,5 @@
 # FlightAirMap_Dockerfile   
-dockerfile for nginx+php+flightairmap ( but no mysql )   
+dockerfile for nginx+php+flightairmap ( you need have a mysql/postgre server !)   
 
 use:   
 git clone https://github.com/d9394/FlightAirMap_Dockerfile.git   
